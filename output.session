@@ -1,0 +1,45 @@
+Script started on Fri 04 Oct 2019 11:12:04 PM EDT
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ pwd
+/home/tom/shell
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ ls
+aa.py  [0m[01;34margs[0m  [01;34mif_else[0m  [01;32mifs.sh[0m  [01;32mj_read.sh[0m  [01;34mopen_s1[0m  [01;34mopen_s2[0m  [01;34mopen_s3[0m  output.session  [01;34mqq[0m  t2.sh  t3.sh  [01;32mtest.sh[0m  timing.log  [01;32mtree.sh[0m
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ who
+tom      tty7         2019-05-20 19:48 (:0)
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ his[K[K[Kwho[K[K[Kip[K[Kis
+is: command not found
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ who is[K[K[Kis[K[K
+who                   whoami                whoopsie              whoopsie-preferences  
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ whoamm[Ki 
+tom
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ id
+uid=1000(tom) gid=1000(tom) groups=1000(tom),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),113(lpadmin),128(sambashare)
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ 
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ 
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ history 
+    1  pwd
+    2  ls
+    3  who
+    4  is
+    5  whoami 
+    6  id
+    7  history 
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ ls | cat -n
+     1	aa.py
+     2	args
+     3	if_else
+     4	ifs.sh
+     5	j_read.sh
+     6	open_s1
+     7	open_s2
+     8	open_s3
+     9	output.session
+    10	qq
+    11	t2.sh
+    12	t3.sh
+    13	test.sh
+    14	timing.log
+    15	tree.sh
+]0;tom@tpc: ~/shell[01;32mtom@tpc[00m:[01;34m~/shell[00m$ exit
+exit
+
+Script done on Fri 04 Oct 2019 11:13:06 PM EDT
